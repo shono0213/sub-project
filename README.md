@@ -1,2 +1,2 @@
 # sub-project
-git practice sub
+git practice sub /updated
